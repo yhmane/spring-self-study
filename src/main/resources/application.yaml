@@ -1,0 +1,11 @@
+spring:
+  profiles:
+    active: test
+
+word:
+  first: hello
+  last: world
+
+url:
+  naver: www.naver.com
+  google: www.google.com
